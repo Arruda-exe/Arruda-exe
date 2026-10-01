@@ -21,4 +21,4 @@ Atuo com **C#/.NET, Angular e Oracle** em sistemas corporativos e gosto de unir 
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/kauan-arruda-verlinck)
-- E-mail: seu-email-aqui
+- E-mail: arrudamygit@gmail.com
